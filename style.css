@@ -48,6 +48,7 @@ body {
 
 .hero-image {
   margin-bottom: 620px;
+  text-align: center;
 }
 
 .hero-image .container {
@@ -136,7 +137,7 @@ body {
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  margin: 0 280px 120px;
 }
 
 .projects {
